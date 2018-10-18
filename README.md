@@ -6,4 +6,4 @@ The output is a "boot.dat" file which can be booted directly from those devices.
 
 This is a web based spring-boot app so in order to get it working a simple mvn clean package and mvn boot:run should do the trick.
 
-For fun it should also be deployed to heroku. 
+For fun it should also be deployed to heroku at https://sx-boot-dat-creator.herokuapp.com/ . 
